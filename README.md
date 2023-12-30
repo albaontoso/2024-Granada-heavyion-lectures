@@ -1,6 +1,6 @@
 # Heavy-ion lectures
 
-Material connected with the "Estudio de la materia en condiciones extremas: del cosmos a los aceleradores de partículas" lectures at the Master in Fisica, Granada 2024.
+Material connected with the "Estudio de la materia en condiciones extremas: del cosmos a los aceleradores de partículas" lectures in the Physics MSc program, Granada 2024. See https://masteres.ugr.es/fisica/docencia/seminarios for more details. 
 
 ## Material for lectures
 
