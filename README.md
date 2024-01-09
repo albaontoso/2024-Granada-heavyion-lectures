@@ -8,5 +8,6 @@ Material connected with the "Estudio de la materia en condiciones extremas: del 
 -[mc-glauber](mc-glauber.ipynb/): Jupyter notebook that generates Glauber initial conditions for a heavy-ion collision and compute a few relevant quantities such as the eccentricities. For more advanced examples, see 
 https://github.com/MCGlauber/MCG, https://cholmcc.gitlab.io/nbi-python/mechanics/Glauber.html or https://github.com/jbernhard/glauber-model. 
 
+-[toy-shower](toy-shower.ipynb/): Jupyter notebook that generates an oversimplified parton shower including some transverse momentum broadening. Largely based on https://github.com/gavinsalam/zuoz2016-toy-shower
 
 
