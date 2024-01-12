@@ -3,7 +3,7 @@
 Material connected with the "Estudio de la materia en condiciones extremas: del cosmos a los aceleradores de partículas" lectures in the Physics MSc program, Granada 2024. See https://masteres.ugr.es/fisica/docencia/seminarios for more details. 
 
 ## Material for lectures
--[](cuestionario.pdf/): short quiz to evaluate the students (in spanish).
+-[cuestionario](cuestionario.pdf/): short quiz to evaluate the students (in spanish).
 
 -[Slides](Slides/): this folder contains the four lectures presented during the course. 
 
